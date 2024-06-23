@@ -29,7 +29,7 @@ Preparação para Postman: Geração de arquivos JSON prontos para serem utiliza
 
 1. Clonar o Repositório:
 ``` bash
-git clone https://github.com/seu-usuario/geradorJson.git
+git clone https://github.com/sidneyjfg/geradorJson.git
 cd geradorJson
 ```
 
